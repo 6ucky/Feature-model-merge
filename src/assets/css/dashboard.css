@@ -1,0 +1,169 @@
+body {
+    font-size: .875rem;
+}
+
+.container {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.feather {
+    width: 16px;
+    height: 16px;
+    vertical-align: text-bottom;
+}
+
+.text-left {
+    text-align: left;
+}
+
+select {
+    width: 174px;
+    height: 27px;
+}
+
+@media (min-width: 300px) {
+    .nav-link {
+        padding-right: .5rem !important;
+        padding-left: .5rem !important;
+    }
+    .navbar-nav2 {
+        flex-direction: row !important;
+    }
+}
+
+.properties-table {
+    display: inline-block;
+}
+
+.tr-unique {
+    padding: 5px;
+    float: left;
+}
+
+.div-text-area {
+    text-align: justify;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
+.pad-40 {
+    padding-bottom: 40px;
+}
+
+
+/*
+ * Sidebar
+ */
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 100;
+    /* Behind the navbar */
+    padding: 0;
+    box-shadow: black;
+}
+
+.sidebar-sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 48px;
+    /* Height of navbar */
+    height: calc(100vh - 48px);
+    padding-top: .5rem;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* Scrollable contents if viewport is shorter than content. */
+}
+
+.sidebar .nav-link {
+    font-weight: 500;
+    color: whitesmoke;
+}
+
+.sidebar .nav-link .feather {
+    margin-right: 4px;
+    color: whitesmoke;
+}
+
+.sidebar .nav-link.active {
+    color: whitesmoke;
+}
+
+.sidebar .nav-link:hover .feather,
+.sidebar .nav-link.active .feather {
+    color: inherit;
+}
+
+.sidebar-heading {
+    font-size: .75rem;
+    text-transform: uppercase;
+}
+
+
+/*
+ * Navbar
+ */
+
+.navbar-brand {
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    font-size: 1rem;
+    background-color: black;
+    box-shadow: inset -1px 0 0 black;
+}
+
+.navbar .form-control {
+    padding: .75rem 1rem;
+    border-width: 0;
+    border-radius: 0;
+}
+
+.form-control-dark {
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+
+.form-control-dark:focus {
+    border-color: transparent;
+    box-shadow: 0 0 0 3px black;
+}
+
+
+/*
+ * Utilities
+ */
+
+.border-top {
+    border-top: 1px solid black;
+}
+
+.border-bottom {
+    border-bottom: 1px solid black;
+}
+
+.button-area button {
+    border: 1px solid black;
+    border-radius: 0px;
+    border-bottom: 0px !important;
+    border-top: 0px !important;
+    border-left: 0px !important;
+}
+
+.button-area button i {
+    padding-right: 5px;
+}
+
+.btn-model-area:focus {
+    outline: 0px !important;
+    box-shadow: none;
+}
+
+.btn-model-area:hover {
+    outline: 0px !important;
+    box-shadow: none;
+}

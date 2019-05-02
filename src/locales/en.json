@@ -1,0 +1,71 @@
+{
+  "models_element_properties": "Element properties",
+  "models_navigator": "Navigator",
+  "models_palette": "Palette",
+  "models_area": "Modeling Area",
+  "models_model": "model",
+
+  "about_variamos": "About VariaMos",
+  "about_team": "VariaMos 2.0.1 Current Team",
+  "about_past_versions": "VariaMos Past Version Team",
+  "about_team_daniel": "Daniel Correa",
+  "about_team_daniel_desc": "Received the BSc. Eng in Systems and Informatics Engineering in 2012, and the MSc. degree in Systems and Informatics Engineering in 2015 all of them from the Universidad Nacional de Colombia. Medellin, Colombia. He is currently a PhD candidate in Systems and Informatics Engineering for the Universidad Nacional de Colombia; and he is an auxiliary professor in the Computing and Decision Sciences Department, Universidad Nacional de Colombia. His research interests include: software product lines, software engineering and software frameworks.",
+  "about_team_raul": "Raúl Mazo",
+  "about_team_raul_desc": "Is associate professor at Paris1 Panthéon Sorbonne University from September 2012, and visiting professor at Eafit University (Colombia) from September 2016. He received a BSc. in Computer Science Engineering in 2005 from the University of Antioquia (Medellin, Colombia), a MSc. of Science degree in Information Systems in 2008 and a PhD. degree in Computer Science in 2011, both from the Panthéon Sorbonne University. His research and teaching topics include: software engineering, and (dynamic) product line engineering.",
+  "about_team_past_copy1":"Copyright (c) 2015-2018:",
+  "about_team_past_copy2":"Copyright (c) 2014-2015:",
+  "about_team_past_copy3":"Copyright (c) 2009-2014:",
+  "about_team_past_authors1":"Raul Mazo, Juan Muñoz, Daniel Correa, Luisa Rincon, Angela Villota, Jose Lopez, Esteban Echavarría, David Henao",
+  "about_team_past_authors2":"Raul Mazo, Diego Quiroz, Sebastian Monsalve, David Lopez, Jose Lopez",
+  "about_team_past_authors3":"Raul Mazo",
+
+  "home_welcome": "Welcome to VariaMos web",
+  "home_variamos": "VariaMos 2.0.1 beta version",
+
+  "reports_title": "Reports",
+
+  "app_variamos": "VariaMos",
+  "app_search": "Search",
+  "app_menu_home": "Home",
+  "app_menu_models": "Models",
+  "app_menu_feature": "Feature",
+  "app_menu_component": "Component",  
+  "app_menu_binding_f_c": "Binding",
+  "app_menu_about": "About",
+  "app_menu_reports": "Reports",  
+  "app_menu_applies": "Applies",
+  "app_menu_hlvl": "HLVL",
+  "app_menu_fragop": "FragOP",
+  "app_dashboard": "Dashboard",
+  "app_share": "Share",
+  "app_export": "Export",
+  "app_week": "This week",
+
+  "modal_save":"Save",
+  "modal_success":"Success",
+  "modal_error":"Error",
+  "models_save_model":"Model Saved!",
+  "models_actions_derivation_response": "Derivation response",
+
+  "domain_implementation":"Domain Implementation",
+  "domain_implementation_set_params":"Set Derivation Parameters",
+  "domain_implementation_execute":"Execute Derivation",
+  "domain_implementation_verify":"Verify Derivation",
+  "domain_implementation_customize":"Customize Derivation",
+  "domain_implementation_pool_path":"Server Component Pool Path",
+  "domain_implementation_derived_path":"Server Derived Project Path",
+  "domain_implementation_path_problem":"Please setup BackEnd and Derivation parameters first",
+
+  "model_actions_backend_problem":" || Back-End problem",
+
+  "backend_title":"BackEnd",
+  "backend_setup":"BackEnd Setup",
+  "backend_setup_path":"BackEnd Server Path",
+
+  "verification":"Verification",
+  "verification_root":"More than one root element",
+  "verification_dead":"Dead elements",
+  "verification_false":"False optional elements",
+  "verification_path_problem":"Please setup BackEnd parameters first"
+
+}
