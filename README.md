@@ -1,4 +1,4 @@
-# sabrinne
+# Feature model merge
 
 > A Vue.js project
 
